@@ -1,0 +1,32 @@
+/**
+ *
+ * Concept: "Rotate everything" as a defense philosophy!
+ *
+ * CSRF Protection Demonstration Project
+ * Project Name: rotating-csrf-demo
+ * Author: Chad Wigington
+ * Purpose: Demonstrate rotating CSRF protection
+ * GitHub: https://github.com/ChadsCode/RotatingTokens
+ * Website: https://www.RotatingTokens.com
+ *
+ * © Chad Wigington
+ * LinkedIn: https://www.linkedin.com/in/chadwigington/
+ * License: MIT
+ * For educational purposes only
+ * 
+ */
+
+<!-- DIRECTORY STRUCTURE:
+xampp/htdocs/csrf-shield-demo/
+├── DIRECTORY_STRUCTURE.txt
+├── index.html
+├── no-csrf.php
+├── static-csrf.php
+├── rotating-csrf.php
+├── process-form.php
+├── get-rotating-token.php
+├── style.css
+├── setup-email.php
+└── README.md
+└── README.pdf
+-->
